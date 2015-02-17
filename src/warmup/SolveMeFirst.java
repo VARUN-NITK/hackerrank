@@ -9,6 +9,12 @@ import java.util.Scanner;
  */
 public class SolveMeFirst {
 
+    /**
+     *
+     * @param a first integer
+     * @param b second integer
+     * @return sum of a + b
+     */
     static int solveMeFirst(int a, int b) {
         return a + b;
     }
